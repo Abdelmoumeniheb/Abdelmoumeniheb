@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelmoumeniheb&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
+## 📫 Connect with Me
 
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abdelmoumeniheb&theme=radical)
+- [LinkedIn](https://www.linkedin.com/in/iheb-abdelmoumen)
