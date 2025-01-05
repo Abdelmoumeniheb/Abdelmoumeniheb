@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelmoumeniheb&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abdelmoumeniheb&theme=radical)
