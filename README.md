@@ -5,7 +5,7 @@
 
 ## 📈 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelmoumeniheb)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelmoumeniheb)](https://github.com/Abdelmoumeniheb/github-readme-stats)
 
 ## 📊 Most Used Languages
 
