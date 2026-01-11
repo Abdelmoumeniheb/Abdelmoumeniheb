@@ -2,10 +2,13 @@
 **Abdelmoumeniheb/Abdelmoumeniheb**
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelmoumeniheb&show_icons=true&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdelmoumeniheb&theme=transparent)
 
-## 📊 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelmoumeniheb&layout=compact&theme=transparent)
+## 📊 GitHub Activity
+[![Iheb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdelmoumeniheb&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 💻 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Abdelmoumeniheb&color=blue&style=flat)
 
 ![Codewars](https://github.r2v.ch/codewars?user=Iheb_Abdelmoumen&stroke=%23BB432C)
 
