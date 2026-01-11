@@ -1,8 +1,11 @@
 ## Hi there 👋
 **Abdelmoumeniheb/Abdelmoumeniheb**
 
-## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdelmoumeniheb&theme=transparent)
+## 📊 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Abdelmoumeniheb&theme=flat&no-frame=true&margin-w=15)
+
+## 💻 Tech Stack
+![](https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,mongodb,git)
 
 ## 📊 GitHub Activity
 [![Iheb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdelmoumeniheb&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
