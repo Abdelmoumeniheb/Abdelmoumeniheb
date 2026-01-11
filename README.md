@@ -1,11 +1,8 @@
 ## Hi there 👋
 **Abdelmoumeniheb/Abdelmoumeniheb**
 
-## 📊 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Abdelmoumeniheb&theme=flat&no-frame=true&margin-w=15)
-
 ## 💻 Tech Stack
-![](https://skillicons.dev/icons?i=java,SpringBoot,javascript,react,netxjs,nodejs,git)
+![](https://skillicons.dev/icons?i=java,spring,js,react,nextjs,nodejs,postgres,git)
 
 ## 📊 GitHub Activity
 [![Iheb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdelmoumeniheb&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
